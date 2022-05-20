@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Neutrinos00
 - 👀 I’m interested in blockchain, web development and AI
-- 🌱 I’m currently a pHD student in physics and deep learning who loves coding and art
+- 🌱 I’m currently a PhD student in physics and deep learning who loves coding and art
 - 📫 You can reach me at neutrinos.particle@gmail.com
